@@ -1,0 +1,43 @@
+
+h1 {
+  color: #414141;
+  font-size: 96px;
+  margin: 60px auto;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  
+  
+}
+
+body {
+  color: #414141;
+  line-height: 1.2rem;
+  font-size: 18px;
+  font-family: 'PT Serif', serif;
+  text-align: justify;
+}
+
+
+.subtitle {
+  color: #7d7d7d;
+  font-size: 36px;
+  text-align: center;
+  padding: 10px;
+  line-height: 1.6rem;
+  margin: 60px auto;
+}
+
+.lead {
+  font-size: 21px;
+}
+
+.links {
+  color: #CA5E10;
+}
+
+.container {
+  width: 90%;
+  max-width: 39rem;
+  margin: 0 auto;
+}
+
